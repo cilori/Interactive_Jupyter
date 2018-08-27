@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Introducing Interactivity into Jupyter Notebooks
+##### Workshop facilitator: Laura Gutierrez Funderburk | Department of Mathematics | Simon Fraser University
 
-You can use the [editor on GitHub](https://github.com/lfunderburk/Interactive_Jupyter/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##### Workshop date: September 11 2018
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Abstract
 
-### Markdown
+In this workshop we will explore the use of Jupyter Widgets and how they allow developers to add an interactive element to Jupyter notebooks. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Getting Started
 
-```markdown
-Syntax highlighted code block
+### Important: 
 
-# Header 1
-## Header 2
-### Header 3
+If you have an SFU login account, you can skip installing Python and simply access one of [SFU's Jupyter servers](https://sfu.syzygy.ca/)
 
-- Bulleted
-- List
+### Otherwise...
 
-1. Numbered
-2. List
+Ensure you have installed Python on your local computer. Throughout these exercises, I will be using Python 3.6. One of the easiest ways to install Python on your local computer is by downloading and installing [Anaconda](https://www.anaconda.com/download/#linux). I strongly recommend installing Anaconda as it includes Jupyter Notebooks, Matplotlib and other packages that will be used throughout this workshop. 
 
-**Bold** and _Italic_ and `Code` text
+### Documentation
 
-[Link](url) and ![Image](src)
-```
+[Installing Anaconda](https://docs.anaconda.com/anaconda/install/#detailed-installation-information)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Installing Jupyter](http://jupyter.org/install)
 
-### Jekyll Themes
+## Introduction
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lfunderburk/Interactive_Jupyter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Workshop Structure
 
-### Support or Contact
+In this section I will provide a short description of each exercise. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Introduction <a href="https://github.com/lfunderburk/Interactive_Jupyter/blob/master/Notebooks/Introduction.ipynb" target="_blank">Introduction</a>
+What are widgets and why are they useful. 
+
+### Exercise 0 Call widgets 
+
+### Exercise 1 Connect widgets and basic functions
+
+### Exercise 2 Magics
+
+## The material in this workshop was built using
+
+* <a href="http://jupyter.org/" target="_blank">Jupyter Notebooks</a>
+* <a href="https://www.python.org/downloads/release/python-360/" target="_blank">Python 3.6</a>
+
+## Acknowledgements
+
+I thank Dr. Cedric Chauve for his encouragement and involvement in my development. This workshop was inspired on the basis of my learning experiences with him as a Callysto Developer during Summer 2018. 
