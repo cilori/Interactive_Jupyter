@@ -29,10 +29,10 @@ Ensure you have installed Python on your local computer. Throughout these exerci
 
 In this section I will provide a short description of each exercise. 
 
-### Introduction <a href="https://github.com/lfunderburk/Interactive_Jupyter/blob/master/Notebooks/Introduction.ipynb" target="_blank">Introduction</a>
+### <a href="https://github.com/lfunderburk/Interactive_Jupyter/blob/master/Notebooks/Introduction.ipynb" target="_blank">Introduction</a>
 What are widgets and why are they useful. 
 
-### Exercise 0 Call widgets 
+### Exercise 0 <a href="https://github.com/lfunderburk/Interactive_Jupyter/blob/master/Notebooks/Jupyter_Widgets.ipynb">Call widgets </a>
 
 ### Exercise 1 Connect widgets and basic functions
 
