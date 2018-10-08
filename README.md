@@ -35,11 +35,13 @@ In this section I will provide a short description of each exercise.
 What are widgets and why are they useful. 
 
 ### Exercise 0 <a href="https://github.com/lfunderburk/Interactive_Jupyter/blob/master/Notebooks/Jupyter_Widgets.ipynb" target="_blank">Call widgets </a>
+How to call widgets
 
 ### Exercise 1 <a href="https://github.com/lfunderburk/Interactive_Jupyter/blob/master/Notebooks/Jupyter_Widgets_Function.ipynb" target="_blank">Interact and Interact Manual to connect Functions to Widgets </a>
+How to connect widgets and functions
 
 ### Exercise 2 <a href="https://github.com/lfunderburk/Interactive_Jupyter/blob/master/Notebooks/Jupyter_Magics.ipynb" target="_blank">Jupyter Magics </a>
-
+Introducing HTML and Javascript into a Python notebook 
 
 ## The material in this workshop was built using
 
