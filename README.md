@@ -1,7 +1,7 @@
 # Introducing Interactivity into Jupyter Notebooks
 ##### Workshop facilitator: Laura Gutierrez Funderburk | Department of Mathematics | Simon Fraser University
 
-##### Workshop date: September 11 2018
+##### Workshop date: October 9 2018
 
 ## Abstract
 
