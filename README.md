@@ -34,7 +34,7 @@ What are widgets and why are they useful.
 
 ### Exercise 0 <a href="https://github.com/lfunderburk/Interactive_Jupyter/blob/master/Notebooks/Jupyter_Widgets.ipynb">Call widgets </a>
 
-### Exercise 1 Connect widgets and basic functions
+### Exercise 1 <a href="https://github.com/lfunderburk/Interactive_Jupyter/blob/master/Notebooks/Jupyter_Widgets_Function.ipynb">Interact and Interact Manual to connect Functions to Widgets </a>
 
 ### Exercise 2 Magics
 
