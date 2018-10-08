@@ -46,4 +46,4 @@ What are widgets and why are they useful.
 
 ## Acknowledgements
 
-I thank Dr. Cedric Chauve for his encouragement and involvement in my development. This workshop was inspired on the basis of my learning experiences with him as a <a href="https://callysto.ca/">Callysto</a> Developer during Summer 2018. I also ackowledge and thank Callysto Developers Howell Tan and Jenifer Pham, whom I learned with many of what I shared in this workshop. 
+I thank Dr. Cedric Chauve for his encouragement and involvement in my development. This workshop was inspired on the basis of my learning experiences with him as a <a href="https://callysto.ca/">Callysto</a> Developer during Summer 2018. I also ackowledge and thank Callysto Developers Howell Tan and Jenifer Pham, whom I learned with many of the concepts shared throughout this workshop. 
