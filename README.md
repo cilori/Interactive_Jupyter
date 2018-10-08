@@ -32,11 +32,11 @@ In this section I will provide a short description of each exercise.
 ### <a href="https://github.com/lfunderburk/Interactive_Jupyter/blob/master/Notebooks/Introduction.ipynb" target="_blank">Introduction</a>
 What are widgets and why are they useful. 
 
-### Exercise 0 <a href="https://github.com/lfunderburk/Interactive_Jupyter/blob/master/Notebooks/Jupyter_Widgets.ipynb">Call widgets </a>
+### Exercise 0 <a href="https://github.com/lfunderburk/Interactive_Jupyter/blob/master/Notebooks/Jupyter_Widgets.ipynb" target="_blank">Call widgets </a>
 
-### Exercise 1 <a href="https://github.com/lfunderburk/Interactive_Jupyter/blob/master/Notebooks/Jupyter_Widgets_Function.ipynb">Interact and Interact Manual to connect Functions to Widgets </a>
+### Exercise 1 <a href="https://github.com/lfunderburk/Interactive_Jupyter/blob/master/Notebooks/Jupyter_Widgets_Function.ipynb" target="_blank">Interact and Interact Manual to connect Functions to Widgets </a>
 
-### Exercise 2 <a href="https://github.com/lfunderburk/Interactive_Jupyter/blob/master/Notebooks/Jupyter_Magics.ipynb">Jupyter Magics </a>
+### Exercise 2 <a href="https://github.com/lfunderburk/Interactive_Jupyter/blob/master/Notebooks/Jupyter_Magics.ipynb" target="_blank">Jupyter Magics </a>
 
 
 ## The material in this workshop was built using
@@ -46,4 +46,4 @@ What are widgets and why are they useful.
 
 ## Acknowledgements
 
-I thank Dr. Cedric Chauve for his encouragement and involvement in my development. This workshop was inspired on the basis of my learning experiences with him as a <a href="https://callysto.ca/">Callysto</a> Developer during Summer 2018. I also ackowledge and thank Callysto Developers Howell Tan and Jenifer Pham, whom I learned with many of the concepts shared throughout this workshop. 
+I thank Dr. Cedric Chauve for his encouragement and involvement in my development. This workshop was inspired on the basis of my learning experiences with him as a <a href="https://callysto.ca/" target="_blank">Callysto</a> Developer during Summer 2018. I also ackowledge and thank Callysto Developers Howell Tan and Jenifer Pham, whom I learned with many of the concepts shared throughout this workshop. 
