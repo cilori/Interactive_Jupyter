@@ -25,6 +25,8 @@ Ensure you have installed Python on your local computer. Throughout these exerci
 
 ## Introduction
 
+<a href="http://jupyter.org/" target="_blank">Jupyter Notebooks</a> are a powerful tool to program in Python/R and share information. The key feature we will explore in this notebook is the flexibility that Jupyter allows to explore code for both programmers and non-programmers. In this series of notebooks we will explore that versatility and allow programmers to learn about how they can use Python and Jupyter widgets and magics to make their notebooks more user friendly and add an element of interactivity. 
+
 ## Workshop Structure
 
 In this section I will provide a short description of each exercise. 
